@@ -1,4 +1,4 @@
-package model;
+package hafta1;
 
 import java.util.Scanner;
 
